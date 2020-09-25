@@ -2,16 +2,16 @@
 ### FOR DETAIL INFORMATION
   * 😄 VISIT -> 
 #### ABOUT ME
- * 2014~`NOW` Studied at Chung-Ang University (Major in Computer Science and Engineering)
+ * 2014~`NOW` Studied at `Chung-Ang University` (Major in Computer Science and Engineering)
    * Member of [Zeropage](https://wiki.zeropage.org/wiki.php/ZeroPage) (30기 부회장) [CAUCSE Steamers](https://steamcommunity.com/groups/caucse-steamers) (2016년 7기 회장)
  * 2017~2019 - `XLGAMES`
    * `Server/Client Programmer` in [달빛조각사](https://moonlight.kakaogames.com/)
  * 2015 - Special Auditor in `Osaka University` (1 year exchange student)
    * Department of Information and Computer Sciences
 #### Skills
- * Programming Language - `C#`(Unity3D), `Elixir`, Python, C++, Java, Javascript
- * Framework, Engine    - `Unity3D`, Pheonix Framework, Vue.js, React, 
- * Lauguage             - Korean(native), Japanese (JLPT N1), English
+ * Programming Language - <b>`C#`</b>(Unity3D), <b>`Elixir`</b>, <b>`Python`</b>, `C++`, `Java`, `Javascript`
+ * Framework, Engine    - <b>`Unity3D`</b>, <b>`Pheonix Framework`</b>, `Flask`, `Vue.js`, `React`
+ * Lauguage             - `Korean`(native), `Japanese` (JLPT N1), English
 #### RECENT PERSONAL PROJECT
  * 이 AI를 복구해주세요. - **Project Director, Programmer** [Repo(Private)](https://github.com/nErumin/ProjectAIRenewal) [STEAM LINK](https://store.steampowered.com/app/1173110/_AI/) - 
    * Do almost **EVERYTHING** (except Illust, Graphic, Music)
