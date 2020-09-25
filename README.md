@@ -10,15 +10,15 @@
    * Department of Information and Computer Sciences
 #### Skills
  * Programming Language - <b>`C#`</b>(Unity3D), <b>`Elixir`</b>, <b>`Python`</b>, `C++`, `Java`, `Javascript`
- * Framework, Engine    - <b>`Unity3D`</b>, <b>`Pheonix Framework`</b>, `Flask`, `Vue.js`, `React`
+ * Framework, Engine    - <b>`Unity3D`</b>, <b>`Phoenix Framework`</b>, `Flask`, `Vue.js`, `React`
  * Lauguage             - `Korean`(native), `Japanese` (JLPT N1), English
 #### RECENT PERSONAL PROJECT
- * 이 AI를 복구해주세요. - **Project Director, Programmer** [Repo(Private)](https://github.com/nErumin/ProjectAIRenewal) [STEAM LINK](https://store.steampowered.com/app/1173110/_AI/) - 
+ * 이 AI를 복구해주세요. - **Project Director, Programmer** [Repo(Private)](https://github.com/nErumin/ProjectAIRenewal) [STEAM LINK](https://store.steampowered.com/app/1173110/_AI/) 
    * Do almost **EVERYTHING** (except Illust, Graphic, Music)
  * Dech - **Programmer** [Repo(Private)](https://github.com/pula39/yokoscroll) [Video](https://www.youtube.com/watch?v=qV3OpHjoy2g&feature=youtu.be&t=961) 
    * Unity3D (Using UniRX, AILibrary)
  * Bubblit - **Programmer** [Repo](https://github.com/pula39/BubbLit) [LINK](http://54.180.86.207:4000/)
-   * `BE` : Elixir (Pheonix Framework) `FE` : React(+Redux)
+   * `BE` : Elixir (Phoenix Framework) `FE` : React(+Redux)
  #### More About Me
 * 동아리 개인 페이지 : [Zerowiki](https://wiki.zeropage.org/wiki.php/%EA%B6%8C%EC%A4%80%ED%98%81)
 * Twitter : [@pula39](https://twitter.com/_pula39)  
