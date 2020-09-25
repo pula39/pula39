@@ -17,9 +17,9 @@
  * Bubblit - **Programmer** [Repo](https://github.com/pula39/BubbLit) [LINK](http://54.180.86.207:4000/)
    * `BE` : Elixir (Phoenix Framework) `FE` : React(+Redux)
  #### More About Me
-![Twitter URL](https://img.shields.io/badge/twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_pula39)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyeok-kwon-2155a418a/)
-![Zerowiki URL](https://img.shields.io/badge/ZeroWiki-212121?style=flat-square&link=https://wiki.zeropage.org/wiki.php/%EA%B6%8C%EC%A4%80%ED%98%81)
+[![Twitter URL](https://img.shields.io/badge/twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_pula39)](https://twitter.com/_pula39)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyeok-kwon-2155a418a/)](https://www.linkedin.com/in/junhyeok-kwon-2155a418a/)
+[![Zerowiki URL](https://img.shields.io/badge/ZeroWiki-212121?style=flat-square&link=https://wiki.zeropage.org/wiki.php/%EA%B6%8C%EC%A4%80%ED%98%81)](https://wiki.zeropage.org/wiki.php/%EA%B6%8C%EC%A4%80%ED%98%81)
 <!--
 **pula39/pula39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
