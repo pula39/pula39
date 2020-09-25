@@ -1,11 +1,7 @@
 ### 👋 > v <  .｡oO（Hi there!）
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pula39)](https://github.com/anuraghazra/github-readme-stats)
-
-MY GIST : [LINK](https://gist.github.com/pula39)
 ### FOR DETAIL INFORMATION
   * 😄 VISIT -> 
   
-
 ### ABOUT ME
  * 2014~`NOW` Studied at Chung-Ang University
    * Major in Computer Science and Engineering
@@ -14,7 +10,6 @@ MY GIST : [LINK](https://gist.github.com/pula39)
    * `Server/Client Programmer` in [달빛조각사](https://moonlight.kakaogames.com/)
  * 2015 - Special Auditor in `Osaka University` (1 year exchange student)
    * Department of Information and Computer Sciences
-
 ### Skills
  * Programming Language
    * `C#`(Unity3D), `Elixir`
@@ -23,7 +18,6 @@ MY GIST : [LINK](https://gist.github.com/pula39)
    * Unity3D, Pheonix Framework, Vue.js, React, 
  * Lauguage
    * Korean(native), Japanese (JLPT N1), English
-
 ### RECENT PROJECT
  * 이 AI를 복구해주세요. [Repo(Private)](https://github.com/nErumin/ProjectAIRenewal) [STEAM LINK](https://store.steampowered.com/app/1173110/_AI/)
    * Unity3D, Python(for automation and resource management)
@@ -34,11 +28,9 @@ MY GIST : [LINK](https://gist.github.com/pula39)
  * Bubblit [Repo](https://github.com/pula39/BubbLit) [LINK](http://54.180.86.207:4000/)
    * `BE` : Elixir (Pheonix Framework) `FE` : React(+Redux)
    * Programming (All, Mainly BE)
- 
 ### More About Me
 * 동아리 개인 페이지 : [Zerowiki](https://wiki.zeropage.org/wiki.php/%EA%B6%8C%EC%A4%80%ED%98%81)
-* Twitter : [@pula39](https://twitter.com/_pula39)
-     
+* Twitter : [@pula39](https://twitter.com/_pula39)  
 <!--
 **pula39/pula39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
