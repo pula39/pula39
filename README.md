@@ -22,6 +22,7 @@
  #### More About Me
 * 동아리 개인 페이지 : [Zerowiki](https://wiki.zeropage.org/wiki.php/%EA%B6%8C%EC%A4%80%ED%98%81)
 * Twitter : [@pula39](https://twitter.com/_pula39)  
+* LinkedIn : [LINK](https://www.linkedin.com/in/junhyeok-kwon-2155a418a/)
 <!--
 **pula39/pula39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
