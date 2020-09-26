@@ -10,7 +10,7 @@
 #### Skills
  * Programming Language - <b>`C#`</b>(Unity3D), <b>`Elixir`</b>, <b>`Python`</b>, `C++`, `Java`, `Javascript`
  * Framework, Engine    - <b>`Unity3D`</b>, <b>`Phoenix Framework`</b>, `Flask`, `Vue.js`, `React`
- * Lauguage             - `Korean`(native), `Japanese` (JLPT N1), English
+ * Lauguage             - <b>`Korean`</b>(native), <b>`Japanese`</b>, English
 #### RECENT PERSONAL PROJECT
  * 이 AI를 복구해주세요. - **Project Director, Programmer** [Repo(Private)](https://github.com/nErumin/ProjectAIRenewal) [STEAM LINK](https://store.steampowered.com/app/1173110/_AI/) 
    * Do almost **EVERYTHING** (except Illust, Graphic, Music)
