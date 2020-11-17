@@ -2,11 +2,11 @@
 ### FOR DETAIL INFORMATION
   * 😄 VISIT -> https://pula39.tistory.com/
 #### ABOUT ME
- * 2014~<b>`NOW`</b> 000 University (Major in Computer Science and Engineering)
-   * Member of [Zeropage](https://wiki.zeropage.org/wiki.php/ZeroPage) (30기 부회장) [Steamers](https://steamcommunity.com/groups/caucse-steamers) (2016년 7기 회장)
+ * 2014~<b>`NOW`</b> Study at `Chung-Ang University` (Major in Computer Science and Engineering)
+   * Member of [Zeropage](https://wiki.zeropage.org/wiki.php/ZeroPage) (30기 부회장) [CAUCSE Steamers](https://steamcommunity.com/groups/caucse-steamers) (2016년 7기 회장)
  * 2017~2019 - `XLGAMES`
    * `Server/Client Programmer` in [달빛조각사](https://moonlight.kakaogames.com/)
- * 2015 - exchange student in `JAPAN` for 1 year
+ * 2015 - Special Auditor in `Osaka University` (1 year exchange student)
 #### Skills
  * Programming Language - <b>`C#`</b>(Unity3D), <b>`Elixir`</b>, <b>`Python`</b>, `C++`, `Java`, `Javascript`
  * Framework, Engine    - <b>`Unity3D`</b>, <b>`Phoenix Framework`</b>, `Flask`, `Vue.js`, `React`
