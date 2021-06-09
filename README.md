@@ -2,14 +2,15 @@
 ### FOR DETAIL INFORMATION
   * 😄 VISIT -> https://pula39.tistory.com/
 #### ABOUT ME
- * 2014~2020 Studied at `Chung-Ang University` (Major in Computer Science and Engineering)
+ * 2021~`NOW` - Working in Seongnam
+ * 2014~2020 - Studied at `Chung-Ang University` (Major in Computer Science and Engineering)
    * Member of [Zeropage](https://wiki.zeropage.org/wiki.php/ZeroPage) (30기 부회장) [CAUCSE Steamers](https://steamcommunity.com/groups/caucse-steamers)
  * 2017~2019 - `XLGAMES`
    * `Server/Client Programmer` in [달빛조각사](https://moonlight.kakaogames.com/)
  * 2015 - Special Auditor in `Osaka University` (1 year exchange student)
 #### Skills
- * Programming Language - <b>`C#`</b>(Unity3D), <b>`Elixir`</b>, <b>`Python`</b>, `C++`, `Java`, `Javascript`
- * Framework, Engine    - <b>`Unity3D`</b>, <b>`Phoenix Framework`</b>, `Flask`, `Vue.js`, `React`
+ * Programming Language - <b>`C#`</b>(Unity3D), <b>`Elixir`</b>, <b>`Kotlin`</b>, `Python`, `C++`, `Java`, `Javascript`
+ * Framework, Engine    - <b>`Unity3D`</b>, <b>`Spring boot`</b>, <b>`Phoenix Framework`</b>, `Flask`, `Vue.js`, `React`
  * Lauguage             - <b>`Korean`</b>(native), <b>`Japanese`</b>, English
 #### RECENT PERSONAL PROJECT
  * 이 AI를 복구해주세요. - **Project Director, Programmer** [Repo(Private)](https://github.com/nErumin/ProjectAIRenewal) [STEAM LINK](https://store.steampowered.com/app/1173110/_AI/) 
